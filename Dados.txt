@@ -1,0 +1,29 @@
+Manuel Vieira,manelito@gmail.com,Ciencias Exatas e Engenharia,201801
+Joao Carvalho,joaocarvalho@gmail.com,Ciencias Exatas e Engenharia,201802
+Albino Freitas,albino@gmail.com,Ciencias Exatas e Engenharia,201803
+Antonio Costa,cota.antonio@gmail.com,Ciencias Exatas e Engenharia,201804
+Francisco Almeida,fran.almeida@gmail.com,Ciencias Exatas e Engenharia,201805
+Joana Rodrigues,janecas@gmail.com,Ciencias Exatas e Engenharia,201806
+Joaquim Bastos,jonas@gmail.com,Ciencias Exatas e Engenharia,201807
+Nuno Vieira,nuno@gmail.com,Ciencias Exatas e Engenharia,201808
+Rui Vitoria,rui@gmail.com,Ciencias Exatas e Engenharia,201809
+Carlos Vinicius,carlos@gmail.com,Ciencias Exatas e Engenharia,201810
+Bernardo Sem Graca,piadolas@gmail.com,Ciencia da Estupidez,201811
+endDOCENTES
+
+Marcio Ribeiro,marcioribeiroslb@gmail.com,10-10-2018,10/10/2021:manelito@gmail.com,joaocarvalho@gmail.com,cota.antonio@gmail.com,jonas@gmail.com
+Joao Andre,joaoandre@gmail.com,10/10/2019,10/10/2020:manelito@gmail.com,joaocarvalho@gmail.com
+endLICENCIADOS
+
+Joao Mario,jonyMarito@gmail.com,10-10-2018,10/10/2021:fran.almeida@gmail.com,jonas@gmail.com,janecas@gmail.com
+Oscar Bolha,olelel@gmail.com,10/10/2019,10/10/2020:fran.almeida@gmail.com,piadolas@gmail.com
+endMESTRES
+
+Umtiti Fernando,otaldela@gmail.com,10-10-2018,10/10/2021
+Muahmed Amtiti,ala@gmail.com,10/10/2019,10/10/2020
+endDOUTOURADOS
+
+Aeroporto de Lisboa,AL,1/1/2019,12,joaocarvalho@gmail.com:cota.antonio@gmail.com,jonas@gmail.com,fran.almeida@gmail.com:marcioribeiroslb@gmail.com,olelel@gmail.com:Design,10-10-2019,10,fran.almeida@gmail.com;design,10-10-2019,20,marcioribeiroslb@gmail.com;Documentacao,10-10-2019,10,fran.almeida@gmail.com;Desenvolvimento,21-10-2019,10,fran.almeida@gmail.com
+Programa para surdos,PS,1/1/2018,12,janecas@gmail.com:albino@gmail.com,piadolas@gmail.com:marcioribeiroslb@gmail.com,joaoandre@gmail.com:Design,1-1-2018,10,fran.almeida@gmail.com;design,1-1-2018,20,piadolas@gmail.com
+Compressor de Imagens,CI,1/1/2020,12,jonas@gmail.com:piadolas@gmail.com,nuno@gmail.com,rui@gmail.com:jonyMarito@gmail.com,marcioribeiroslb@gmail.com,olelel@gmail.com:Design,1-1-2020,10,nuno@gmail.com;design,10-10-2019,20,marcioribeiroslb@gmail.com
+endPROJETOS
